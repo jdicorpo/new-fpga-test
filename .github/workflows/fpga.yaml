@@ -14,4 +14,4 @@ jobs:
           submodules: recursive
 
       - name: FPGA bitstream for TT ASIC Sim (ICE40UP5K)
-        uses: chipfoundry/tt-gds-action/fpga/ice40up5k@8443143638ba96a566c644cf471bd124e54b789e
+        uses: chipfoundry/tt-gds-action/fpga/ice40up5k@03c4904aa3e0ccfcaf38247b86eb9c3317c15cd2
